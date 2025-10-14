@@ -10,7 +10,7 @@ This repository contains the matlab codes for our paper: "Mixed Monotonicity Rea
 
 - Clone or download this paper repository and add it to the Matlab path
 
-+CORA+
+++CORA++
 1. Download or clone CORA version 2025.1.1 from [here](https://github.com/TUMcps/CORA)
 2. Add CORA folder and subfolders to the Matlab path
 
